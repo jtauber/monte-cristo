@@ -7,28 +7,24 @@ class Parser:
 
     def __init__(self, filename):
         self.filename = filename
-        self.volume = 0
         self.chapter = 0
         self.paragraph = 0
-
-    def handle_volume(self, line):
-        self.volume += 1
 
     def handle_chapter(self, line):
         self.chapter += 1
         self.paragraph = 0
         if isinstance(self.chapter, int):
-            ref = f"{self.volume}.{self.chapter:03d}.{self.paragraph:03d}"
+            ref = f"{self.chapter:03d}.{self.paragraph:03d}"
         else:
-            ref = f"{self.volume}.{self.chapter}.{self.paragraph:03d}"
+            ref = f"{self.chapter}.{self.paragraph:03d}"
         print(ref, line.strip().split(maxsplit=2)[2], sep="\t")
 
     def handle_para(self, txt):
         self.paragraph += 1
         if isinstance(self.chapter, int):
-            ref = f"{self.volume}.{self.chapter:03d}.{self.paragraph:03d}"
+            ref = f"{self.chapter:03d}.{self.paragraph:03d}"
         else:
-            ref = f"{self.volume}.{self.chapter}.{self.paragraph:03d}"
+            ref = f"{self.chapter}.{self.paragraph:03d}"
         print(ref, " ".join(txt), sep="\t")
 
     def parse(self):
@@ -42,7 +38,6 @@ class Parser:
                     pass  # ignore
             elif state == 1:
                 if line.startswith("VOLUME ONE"):
-                    self.handle_volume(line)
                     state = 2
                     txt = []
                 else:
@@ -61,7 +56,6 @@ class Parser:
                     if txt:
                         self.handle_para(txt)
                         txt = []
-                    self.handle_volume(line)
                 elif line.startswith(" Chapter"):
                     if txt:
                         self.handle_para(txt)
