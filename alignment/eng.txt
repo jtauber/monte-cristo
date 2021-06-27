@@ -146,7 +146,10 @@
 001.126c	but there was a great difference in the expression of the two men who thus followed the movements of Edmond Dantès.
 002.000	Father and Son
 002.001	We will leave Danglars struggling with the demon of hatred, and endeavoring to insinuate in the ear of the shipowner some evil suspicions against his comrade, and follow Dantès, who, after having traversed La Canebière, took the Rue de Noailles, and entering a small house, on the left of the Allées de Meilhan, rapidly ascended four flights of a dark staircase, holding the baluster with one hand, while with the other he repressed the beatings of his heart, and paused before a half-open door, from which he could see the whole of a small room.
-002.002	This room was occupied by Dantès’ father. The news of the arrival of the _Pharaon_ had not yet reached the old man, who, mounted on a chair, was amusing himself by training with trembling hand the nasturtiums and sprays of clematis that clambered over the trellis at his window. Suddenly, he felt an arm thrown around his body, and a well-known voice behind him exclaimed, “Father—dear father!”
+002.002a	This room was occupied by Dantès’ father.
+002.002b	The news of the arrival of the _Pharaon_ had not yet reached the old man, who, mounted on a chair, was amusing himself by training with trembling hand the nasturtiums and sprays of clematis that clambered over the trellis at his window.
+002.002c	Suddenly, he felt an arm thrown around his body, and a well-known voice behind him exclaimed,
+002.002d	“Father—dear father!”
 002.003	The old man uttered a cry, and turned round; then, seeing his son, he fell into his arms, pale and trembling.
 002.004	“What ails you, my dearest father? Are you ill?” inquired the young man, much alarmed.
 002.005	“No, no, my dear Edmond—my boy—my son!—no; but I did not expect you; and joy, the surprise of seeing you so suddenly—Ah, I feel as if I were going to die.”
@@ -155,10 +158,12 @@
 002.008	“God forgive me,” said the young man, “for rejoicing at happiness derived from the misery of others, but, Heaven knows, I did not seek this good fortune; it has happened, and I really cannot pretend to lament it. The good Captain Leclere is dead, father, and it is probable that, with the aid of M. Morrel, I shall have his place. Do you understand, father? Only imagine me a captain at twenty, with a hundred louis pay, and a share in the profits! Is this not more than a poor sailor like me could have hoped for?”
 002.009	“Yes, my dear boy,” replied the old man, “it is very fortunate.”
 002.010	“Well, then, with the first money I touch, I mean you to have a small house, with a garden in which to plant clematis, nasturtiums, and honeysuckle. But what ails you, father? Are you not well?”
-002.011	“’Tis nothing, nothing; it will soon pass away”—and as he said so the old man’s strength failed him, and he fell backwards.
+002.011a	“’Tis nothing, nothing; it will soon pass away”—
+002.011b	and as he said so the old man’s strength failed him, and he fell backwards.
 002.012	“Come, come,” said the young man, “a glass of wine, father, will revive you. Where do you keep your wine?”
 002.013	“No, no; thanks. You need not look for it; I do not want it,” said the old man.
-002.014	“Yes, yes, father, tell me where it is,” and he opened two or three cupboards.
+002.014a	“Yes, yes, father, tell me where it is,”
+002.014b	and he opened two or three cupboards.
 002.015	“It is no use,” said the old man, “there is no wine.”
 002.016	“What, no wine?” said Dantès, turning pale, and looking alternately at the hollow cheeks of the old man and the empty cupboards. “What, no wine? Have you wanted money, father?”
 002.017	“I want nothing now that I have you,” said the old man.
@@ -176,7 +181,9 @@
 002.029	“What are you doing?”
 002.030	“You have wounded me to the heart.”
 002.031	“Never mind it, for I see you once more,” said the old man; “and now it’s all over—everything is all right again.”
-002.032	“Yes, here I am,” said the young man, “with a promising future and a little money. Here, father, here!” he said, “take this—take it, and send for something immediately.” And he emptied his pockets on the table, the contents consisting of a dozen gold pieces, five or six five-franc pieces, and some smaller coin. The countenance of old Dantès brightened.
+002.032a	“Yes, here I am,” said the young man, “with a promising future and a little money. Here, father, here!” he said, “take this—take it, and send for something immediately.”
+002.032b	And he emptied his pockets on the table, the contents consisting of a dozen gold pieces, five or six five-franc pieces, and some smaller coin.
+002.032c	The countenance of old Dantès brightened.
 002.033	“Whom does this belong to?” he inquired.
 002.034	“To me, to you, to us! Take it; buy some provisions; be happy, and tomorrow we shall have more.”
 002.035	“Gently, gently,” said the old man, with a smile; “and by your leave I will use your purse moderately, for they would say, if they saw me buy too many things at a time, that I had been obliged to await your return, in order to be able to purchase them.”
@@ -188,13 +195,17 @@
 002.041	“Yes, as you see, neighbor Caderousse; and ready to be agreeable to you in any and every way,” replied Dantès, but ill-concealing his coldness under this cloak of civility.
 002.042	“Thanks—thanks; but, fortunately, I do not want for anything; and it chances that at times there are others who have need of me.” Dantès made a gesture. “I do not allude to you, my boy. No!—no! I lent you money, and you returned it; that’s like good neighbors, and we are quits.”
 002.043	“We are never quits with those who oblige us,” was Dantès’ reply; “for when we do not owe them money, we owe them gratitude.”
-002.044	“What’s the use of mentioning that? What is done is done. Let us talk of your happy return, my boy. I had gone on the quay to match a piece of mulberry cloth, when I met friend Danglars. ‘You at Marseilles?’—‘Yes,’ says he.
-002.045	“‘I thought you were at Smyrna.’—‘I was; but am now back again.’
+002.044a	“What’s the use of mentioning that? What is done is done. Let us talk of your happy return, my boy. I had gone on the quay to match a piece of mulberry cloth, when I met friend Danglars.
+002.044b	‘You at Marseilles?’—
+002.044c	‘Yes,’ says he.
+002.045a	“‘I thought you were at Smyrna.’—
+002.045b	‘I was; but am now back again.’
 002.046	“‘And where is the dear boy, our little Edmond?’
 002.047	“‘Why, with his father, no doubt,’ replied Danglars. And so I came,” added Caderousse, “as fast as I could to have the pleasure of shaking hands with a friend.”
 002.048	“Worthy Caderousse!” said the old man, “he is so much attached to us.”
 002.049	“Yes, to be sure I am. I love and esteem you, because honest folks are so rare. But it seems you have come back rich, my boy,” continued the tailor, looking askance at the handful of gold and silver which Dantès had thrown on the table.
-002.050	The young man remarked the greedy glance which shone in the dark eyes of his neighbor. “Eh,” he said, negligently, “this money is not mine. I was expressing to my father my fears that he had wanted many things in my absence, and to convince me he emptied his purse on the table. Come, father” added Dantès, “put this money back in your box—unless neighbor Caderousse wants anything, and in that case it is at his service.”
+002.050a	The young man remarked the greedy glance which shone in the dark eyes of his neighbor.
+002.050b	“Eh,” he said, negligently, “this money is not mine. I was expressing to my father my fears that he had wanted many things in my absence, and to convince me he emptied his purse on the table. Come, father” added Dantès, “put this money back in your box—unless neighbor Caderousse wants anything, and in that case it is at his service.”
 002.051	“No, my boy, no,” said Caderousse. “I am not in any want, thank God, my living is suited to my means. Keep your money—keep it, I say;—one never has too much;—but, at the same time, my boy, I am as much obliged by your offer as if I took advantage of it.”
 002.052	“It was offered with good will,” said Dantès.
 002.053	“No doubt, my boy; no doubt. Well, you stand well with M. Morrel I hear,—you insinuating dog, you!”
@@ -254,8 +265,11 @@
 002.107	“And you say that Dantès has gone to the Catalans?”
 002.108	“He went before I came down.”
 002.109	“Let us go the same way; we will stop at La Réserve, and we can drink a glass of La Malgue, whilst we wait for news.”
+
+
 002.110	“Come along,” said Caderousse; “but you pay the score.”
-002.111	“Of course,” replied Danglars; and going quickly to the designated place, they called for a bottle of wine, and two glasses.
+002.111a	“Of course,” replied Danglars;
+002.111b	and going quickly to the designated place, they called for a bottle of wine, and two glasses.
 002.112	Père Pamphile had seen Dantès pass not ten minutes before; and assured that he was at the Catalans, they sat down under the budding foliage of the planes and sycamores, in the branches of which the birds were singing their welcome to one of the first days of spring.
 003.000	The Catalans
 003.001	Beyond a bare, weather-worn wall, about a hundred paces from the spot where the two friends sat looking and listening as they drank their wine, was the village of the Catalans. Long ago this mysterious colony quitted Spain, and settled on the tongue of land on which it is to this day. Whence it came no one knew, and it spoke an unknown tongue. One of its chiefs, who understood Provençal, begged the commune of Marseilles to give them this bare and barren promontory, where, like the sailors of old, they had run their boats ashore. The request was granted; and three months afterwards, around the twelve or fifteen small vessels which had brought these gypsies of the sea, a small village sprang up. This village, constructed in a singular and picturesque manner, half Moorish, half Spanish, still remains, and is inhabited by descendants of the first comers, who speak the language of their fathers. For three or four centuries they have remained upon this small promontory, on which they had settled like a flight of seabirds, without mixing with the Marseillaise population, intermarrying, and preserving their original customs and the costume of their mother-country as they have preserved its language.
